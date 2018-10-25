@@ -1,0 +1,7 @@
+{
+    "\ud83d\udd11": {
+        "description": "This will assign the Free Agent role, then you can use this server to find a team/organisation.",
+        "role": "Free Agent",
+        "type": "roles"
+    }
+}
